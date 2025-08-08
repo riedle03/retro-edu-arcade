@@ -17,7 +17,7 @@ st.title("🕹️ Retro Class Tools")
 st.markdown("<p class='small'>레트로 감성 학급 도구 5종 – 좌측 사이드바 또는 아래 링크로 이동하세요.</p>", unsafe_allow_html=True)
 
 st.markdown("<div class='card'><b>페이지 바로가기</b></div>", unsafe_allow_html=True)
-st.page_link("pages/1_학습성향_MB_TI.py", label="🧠 학습성향 MBTI", icon="🧠")
+st.page_link("pages/1_학습성향_MBTI.py", label="🧠 학습성향 MBTI", icon="🧠")
 st.page_link("pages/2_역할_룰렛.py", label="🎰 픽셀 레트로 역할 룰렛", icon="🎰")
 st.page_link("pages/3_디지털_칭찬_상자.py", label="🌟 디지털 칭찬 상자+", icon="🌟")
 st.page_link("pages/4_레트로_발표_타이머.py", label="⏱ 레트로 발표 타이머", icon="⏱")
